@@ -1,0 +1,9 @@
+Step 1: Run this command to install the latest version of Node.js
+
+nvm install node
+
+Step2: To create react project 
+
+npx create-react-app demo-proj
+
+
